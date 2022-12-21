@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUDHANSHU4497
+- 👋 Hi, I’m SUDHANSHU KUMAR
 - 👀 I’m interested in **DATA SCIENCE**, **MACHINE LEARNING**, **PYTHON**, **SQL**
 - 💞️ I’m looking to collaborate on **MACHINE LEARNING** and **DATA SCIENCE**
 - 📫 Email: sudhanshu.mriu@gmail.com
